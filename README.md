@@ -11,9 +11,15 @@
 - 🌱 my Hacker Rank https://www.hackerrank.com/ahmedahmedahmed2
 - my resume https://drive.google.com/file/d/1Z5aXlq3J9_jT8wjkqs5z6qLxn945UKza/view
 
-/********************************************/
+
 /*************** TECHNICAL SKILLS ***********/
 
-:(problem solving student) :(computer vision _python_)  :(HPC) :(advanced DS & algo)
-:(Embedded software) :(React & django) :(games c++) :(linux) 
-:(oop/designed patterns/system design) :(database design & sql) 
+:(problem solving student) :(computer vision _python_) 
+:(HPC) :(advanced DS & algo)
+:(Embedded software) :(React & django) 
+:(games c++) :(linux) 
+:(oop/designed patterns/system design) 
+:(database design & sql) 
+
+
+/********************************************/
