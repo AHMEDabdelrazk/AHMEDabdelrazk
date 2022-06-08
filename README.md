@@ -9,7 +9,7 @@
 - 🌱 my leetcode https://leetcode.com/ahmed-abd-elrazik/
 - 🌱 my codeforce https://codeforces.com/profile/ahmed-abd-elrazik
 - 🌱 my Hacker Rank https://www.hackerrank.com/ahmedahmedahmed2
-- my resume https://drive.google.com/file/d/1Z5aXlq3J9_jT8wjkqs5z6qLxn945UKza/view
+- my resume https://drive.google.com/file/d/13AzQBpJSwmGOEpgozOZW8zPFOjZYShqS/view?usp=sharing
 
 
 /*************** TECHNICAL SKILLS ***********/
