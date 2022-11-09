@@ -1,10 +1,10 @@
 ### Hi i am Ahmed Abdelrazik 👋
 
 - ->> I am a software engineer ( full stack engineer) <<- 
-- 🔭 I’m currently working in el Zahraa office
+- 🔭 I’m currently working in MEDSOFT.
 - 🌱 I’m currently learning problem solving with advanced : (D.S , Algorithms)
 - 📫 How to reach me: ahmed.abdelrazikr.98@gmail.com
-- 😄 I’m currently open for: An Intern or a new job opportunity.
+- 😄 I’m currently open for: An Intern .
 -  📫 my linked in account https://www.linkedin.com/in/ahmed-abd-elrazik-2552121a0/
 - 🌱 my leetcode https://leetcode.com/ahmed-abd-elrazik/
 - 🌱 my codeforce https://codeforces.com/profile/ahmed-abd-elrazik
@@ -20,6 +20,9 @@
 :(games c++) :(linux) 
 :(oop/designed patterns/system design) 
 :(database design & sql) 
+:(Cmake) 
+:(Smart C++)
+:(VTK & QT)
 
 
 /********************************************/
