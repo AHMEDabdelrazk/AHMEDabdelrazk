@@ -1,7 +1,9 @@
 ### Hi i am Ahmed Abdelrazik 👋
 
-- ->> I am a software engineer  <<- .
+- ->> I am a software engineer  <<- 
+
 ===================================
+
 - 📍 my location: Cairo-Egypt 🇪🇬 🗺
 =====================================================================
 - 📫 How to reach me: ahmed.abdelrazikr.98@gmail.com
