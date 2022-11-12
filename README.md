@@ -1,6 +1,6 @@
 ### Hi i am Ahmed Abdelrazik 👋
 
-- ->> I am a software engineer  <<- 
+- ->> I am a software engineer  <<- .
 ===================================
 - 📍 my location: Cairo-Egypt 🇪🇬 🗺
 =====================================================================
@@ -19,7 +19,7 @@
 - 🌱 I’m currently working in MEDSOFT company.
 - 🌱 & learning problem solving with advanced : (D.S , Algorithms)
 - 🌱 & open for: An Intern .
-=====================================================================
+- =====================================================================
 - 🌱 my leetcode https://leetcode.com/ahmed-abd-elrazik/
 - 🌱 my codeforce https://codeforces.com/profile/ahmed-abd-elrazik
 - 🌱 my Hacker Rank https://www.hackerrank.com/ahmedahmedahmed2
