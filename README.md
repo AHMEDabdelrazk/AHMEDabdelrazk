@@ -18,11 +18,11 @@
 
 =====================================================================
 
-- 🌱 have expriance working as
-         - 🔭 c++ back-end develober in "MEDSOFT" company: about {vtk/Qt/Cmake/DesignPattern/smartC++}
-         - 🔭 web full-stack engineer intern in "BLD.ai" company: about {vs-code/CSS&HTML/JS/bootstrap/React/Django}
-         - 🔭 Embedded System in "POWER-I-S" company: about {Atmega32a/ArduinoIDE/proteus/Atmel/C/TouchScreen/other-embedded-component}
-         - 🔭 Software Engineer in "ZHRAA" company: about {C#/raspberry-pi/python/linux/vs2022}
+- 🌱 have expriance working as.
+         - 🔭 c++ back-end develober in "MEDSOFT" company: about {vtk/Qt/Cmake/DesignPattern/smartC++}.
+         - 🔭 web full-stack engineer intern in "BLD.ai" company: about {vs-code/CSS&HTML/JS/bootstrap/React/Django}.
+         - 🔭 Embedded System in "POWER-I-S" company: about {Atmega32a/ArduinoIDE/proteus/Atmel/C/TouchScreen/other-embedded-component}.
+         - 🔭 Software Engineer in "ZHRAA" company: about {C#/raspberry-pi/python/linux/vs2022}.
  
 =====================================================================
 
@@ -30,7 +30,7 @@
 - 🌱 & learning problem solving with advanced : (D.S , Algorithms)
 - 🌱 & open for: An Intern .
 - 
-- =====================================================================
+=====================================================================
 
 - 🌱 my leetcode https://leetcode.com/ahmed-abd-elrazik/
 - 🌱 my codeforce https://codeforces.com/profile/ahmed-abd-elrazik
