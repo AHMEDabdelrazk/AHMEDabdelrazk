@@ -20,10 +20,10 @@
 
 - 🌱 have expriance working as.
 
-         1. 🔭 c++ back-end develober in "MEDSOFT" company: about {vtk/Qt/Cmake/DesignPattern/smartC++}.
-         2. 🔭 web full-stack engineer intern in "BLD.ai" company: about {vs-code/CSS&HTML/JS/bootstrap/React/Django}.
-         3. 🔭 Embedded System in "POWER-I-S" company: about {Atmega32a/ArduinoIDE/proteus/Atmel/C/TouchScreen/other-embedded-component}.
-         4. 🔭 Software Engineer in "ZHRAA" company: about {C#/raspberry-pi/python/linux/vs2022}.
+         1. 🏭 c++ back-end develober in "MEDSOFT" company: about {vtk/Qt/Cmake/DesignPattern/smartC++}.
+         2. 🏭 web full-stack engineer intern in "BLD.ai" company: about {vs-code/CSS&HTML/JS/bootstrap/React/Django}.
+         3. 🏭 Embedded System in "POWER-I-S": about {Atmega32a/proteus/Atmel/C/TouchScreen/other-embedded-component}.
+         4. 🏭 Software Engineer in "ZHRAA" company: about {C#/raspberry-pi/python/linux/vs2022}.
  
 =====================================================================
 
