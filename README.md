@@ -5,12 +5,17 @@
 ===================================
 
 - 📍 my location: Cairo-Egypt 🇪🇬 🗺
+
 =====================================================================
+
 - 📫 How to reach me: ahmed.abdelrazikr.98@gmail.com
 - 📫 my linked in account https://www.linkedin.com/in/ahmed-abd-elrazik-2552121a0/
 - 📫 my phone number: +201177741571
+
 =====================================================================
+
 - 🌱 Graduated from computer and informatio science Ain-Shams university
+
 =====================================================================
 - 🌱 have expriance working as
          - 🔭 c++ back-end develober in "MEDSOFT" company: about {vtk/Qt/Cmake/DesignPattern/smartC++}
