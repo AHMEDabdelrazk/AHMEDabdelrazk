@@ -20,16 +20,17 @@
 
 - 🌱 have expriance working as.
 
-         1. 🏭 c++ back-end develober in "MEDSOFT" company: about {vtk/Qt/Cmake/DesignPattern/smartC++}.
-         2. 🏭 web full-stack engineer intern in "BLD.ai" company: about {vs-code/CSS&HTML/JS/bootstrap/React/Django}.
-         3. 🏭 Embedded System in "POWER-I-S": about {Atmega32a/proteus/Atmel/C/TouchScreen/other-embedded-component}.
-         4. 🏭 Software Engineer in "ZHRAA" company: about {C#/raspberry-pi/python/linux/vs2022}.
+         1. 🏭 c++ develober in "Sonnen" company: about {Qt/Cmake/DesignPattern/smartC++/embedded protocols/Linux/gtest}.
+         2. 🏭 c++ back-end develober in "MEDSOFT" company: about {vtk/Qt/Cmake/DesignPattern/smartC++}.
+         3. 🏭 web full-stack engineer intern in "BLD.ai" company: about {vs-code/CSS&HTML/JS/bootstrap/React/Django}.
+         4. 🏭 Embedded System in "POWER-I-S": about {Atmega32a/proteus/Atmel/C/TouchScreen/other-embedded-component}.
+         5. 🏭 Software Engineer in "ZHRAA" company: about {C#/raspberry-pi/python/linux/vs2022}.
  
 =====================================================================
 
-- 🌱 I’m currently working in MEDSOFT company.
+- 🌱 I’m currently working in Sonnen company.
 - 🌱 & learning problem solving with advanced : (D.S , Algorithms)
-- 🌱 & open for: An Intern .
+- 🌱 & open for: New opportunity.
 
 =====================================================================
 
