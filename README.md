@@ -21,7 +21,7 @@
 - 🌱 have expriance working as.
 
          1. 🏭 c++ develober in "Sonnen" company: about {Qt/Cmake/DesignPattern/smartC++/embedded protocols/Linux/gtest}.
-         2. 🏭 c++ back-end develober in "MEDSOFT" company: about {vtk/Qt/Cmake/DesignPattern/smartC++}.
+         2. 🏭 back-end develober in "MEDSOFT" company: about {vtk/Qt/Cmake/DesignPattern/smartC++}.
          3. 🏭 web full-stack engineer intern in "BLD.ai" company: about {vs-code/CSS&HTML/JS/bootstrap/React/Django}.
          4. 🏭 Embedded System in "POWER-I-S": about {Atmega32a/proteus/Atmel/C/TouchScreen/other-embedded-component}.
          5. 🏭 Software Engineer in "ZHRAA" company: about {C#/raspberry-pi/python/linux/vs2022}.
@@ -32,6 +32,22 @@
 - 🌱 & learning problem solving with advanced : (D.S , Algorithms)
 - 🌱 & open for: New opportunity.
 
+=====================================================================
+
+# 📚 Important Courses
+
+### 🏢 Route Academy — .NET (Offline)
+- **Database:** SQL Server, SQL Fundamentals, DB Design & Normalization, Stored Procedures, Views, Functions, Triggers, Transactions, Optimization.
+- **C#:** OOP, DSA, Memory Management, Exception Handling, Generics, Delegates, Events, LINQ, Advanced Features.
+- **Backend:** ASP.NET Core, MVC, Web API, REST APIs, HTTP/HTTPS, Auth, DI, EF Core, LINQ, Code First, Database First, Migrations.
+
+### 🌐 Tarmis Academy — React (Online)
+- **Fundamentals:** JSX, Components, Props & State, Conditional Rendering, Lists & Keys, Events.
+- **Hooks:** `useState`, `useEffect`, `useContext`, `useRef`, Custom Hooks.
+- **Routing:** React Router, Dynamic Routing, Route Parameters, Protected Routes.
+- **State:** Context API, Redux, Redux Toolkit.
+- **API:** Fetch API, Axios, REST APIs, Async JS, Error Handling.
+- 
 =====================================================================
 
 - 🌱 my leetcode https://leetcode.com/ahmed-abd-elrazik/
