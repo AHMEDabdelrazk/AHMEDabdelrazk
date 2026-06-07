@@ -50,9 +50,9 @@
   
 =====================================================================
 
-# 🚀 Important Web Projects
+### 🚀 Important Web Projects
 
-### 🏋️ GymCore — Gym Management System
+#### 🏋️ GymCore — Gym Management System
 
 - **Tech Stack:** ASP.NET Core 8 Web API, EF Core (Code First), SQL Server, ASP.NET Identity, JWT Authentication, React.js, React Router, Axios, AutoMapper, Swagger/OpenAPI, Git & GitHub.
 - **Description:** Full-stack Gym Management System built with ASP.NET Core Web API and React. Includes membership plan management, member management, JWT-based authentication & authorization, RESTful APIs, and a responsive dashboard UI.
@@ -60,7 +60,7 @@
 
 ---
 
-### 🛣️ TechRoad — Learning Roadmap Tracker
+#### 🛣️ TechRoad — Learning Roadmap Tracker
 
 - **Tech Stack:** ASP.NET Core, C#, React, JavaScript, JWT, REST APIs, JSON Storage, CSS3, Git.
 - **Description:** Full-stack roadmap tracking platform built with ASP.NET Core Web API and React. Features JWT authentication with file-based storage and dynamic roadmap generation for different software categories.
