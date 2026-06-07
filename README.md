@@ -34,20 +34,38 @@
 
 =====================================================================
 
-# 📚 Important Courses
+### 📚 Important Courses
 
-### 🏢 Route Academy — .NET (Offline)
+#### 🏢 Route Academy — .NET (Offline)
 - **Database:** SQL Server, SQL Fundamentals, DB Design & Normalization, Stored Procedures, Views, Functions, Triggers, Transactions, Optimization.
 - **C#:** OOP, DSA, Memory Management, Exception Handling, Generics, Delegates, Events, LINQ, Advanced Features.
 - **Backend:** ASP.NET Core, MVC, Web API, REST APIs, HTTP/HTTPS, Auth, DI, EF Core, LINQ, Code First, Database First, Migrations.
 
-### 🌐 Tarmis Academy — React (Online)
+#### 🌐 Tarmis Academy — React (Online)
 - **Fundamentals:** JSX, Components, Props & State, Conditional Rendering, Lists & Keys, Events.
 - **Hooks:** `useState`, `useEffect`, `useContext`, `useRef`, Custom Hooks.
 - **Routing:** React Router, Dynamic Routing, Route Parameters, Protected Routes.
 - **State:** Context API, Redux, Redux Toolkit.
 - **API:** Fetch API, Axios, REST APIs, Async JS, Error Handling.
-- 
+  
+=====================================================================
+
+# 🚀 Important Web Projects
+
+### 🏋️ GymCore — Gym Management System
+
+- **Tech Stack:** ASP.NET Core 8 Web API, EF Core (Code First), SQL Server, ASP.NET Identity, JWT Authentication, React.js, React Router, Axios, AutoMapper, Swagger/OpenAPI, Git & GitHub.
+- **Description:** Full-stack Gym Management System built with ASP.NET Core Web API and React. Includes membership plan management, member management, JWT-based authentication & authorization, RESTful APIs, and a responsive dashboard UI.
+- **Key Features:** User Registration & Login, JWT Authentication, Membership Plans (CRUD), Member Management (CRUD), Protected Routes, SQL Server Integration, Repository Pattern, Service Layer Architecture, AutoMapper DTO Mapping, Swagger Documentation.
+
+---
+
+### 🛣️ TechRoad — Learning Roadmap Tracker
+
+- **Tech Stack:** ASP.NET Core, C#, React, JavaScript, JWT, REST APIs, JSON Storage, CSS3, Git.
+- **Description:** Full-stack roadmap tracking platform built with ASP.NET Core Web API and React. Features JWT authentication with file-based storage and dynamic roadmap generation for different software categories.
+- **Key Features:** Progress Tracking with Automatic Score Calculation, Responsive UI, Reusable React Components, Dynamic Roadmaps, Separate Frontend & Backend Deployment using free cloud services.
+
 =====================================================================
 
 - 🌱 my leetcode https://leetcode.com/ahmed-abd-elrazik/
@@ -103,6 +121,8 @@
 5.	📂 touch screen controler system
 6.	📂 ppds (preoprative planning design suite) medical software tool for bones grafting opreations.
 7.	📂 courses site like udemy
+8.	📂 GymCore — Gym Management System ( dotnet & react )
+9.	📂 TechRoad — Learning Roadmap Tracker ( dotnet & react )
 
 /********************************************/
 
