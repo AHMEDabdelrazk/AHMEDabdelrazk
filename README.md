@@ -130,6 +130,8 @@
 
 - 💻 project 1 link (original-shooting-range-system): https://github.com/AHMEDabdelrazk/original-shooting-range-system.
 - 💻 project 2 link (shooting-range-system): https://github.com/AHMEDabdelrazk/shooting-range-system.
+- 💻 project 3 link (GymCore — Gym Management): [📦 github link ](https://github.com/AHMEDabdelrazk/GymCore)
+- 💻 project 4 link ( TechRoad — Learning Roadmap Tracker): [📦 github link ](https://github.com/AHMEDabdelrazk/TechRoad)
 - ⚙️ other projects (parts of code only): https://github.com/AHMEDabdelrazk/Projects-code
 - ⚙️ some advanced algorithms code: https://github.com/AHMEDabdelrazk/algorithm.
 
