@@ -37,21 +37,23 @@
 =====================================================================
 
 ### 📚 Important Courses
- ```
 #### 🏢 Route Academy — .NET (Offline)
-
-* **Database:** SQL Server, SQL Fundamentals, DB Design & Normalization, Stored Procedures, Views, Functions, Triggers, Transactions, Optimization.
-* **C#:** OOP, DSA, Memory Management, Exception Handling, Generics, Delegates, Events, LINQ, Advanced Features.
-* **Backend:** ASP.NET Core, MVC, Web API, REST APIs, HTTP/HTTPS, Auth, DI, EF Core, LINQ, Code First, Database First, Migrations.
  ```
+
+1. Database: SQL Server, SQL Fundamentals, DB Design & Normalization, Stored Procedures, Views, Functions,
+ Triggers, Transactions, Optimization.
+2. C#: OOP, DSA, Memory Management, Exception Handling, Generics, Delegates, Events, LINQ, Advanced Features.
+3. Backend: ASP.NET Core, MVC, Web API, REST APIs, HTTP/HTTPS, Auth, DI, EF Core, LINQ, Code First,
+   Database First, Migrations.
  ```
 #### 🌐 Tarmis Academy — React (Online)
+ ```
 
-* **Fundamentals:** JSX, Components, Props & State, Conditional Rendering, Lists & Keys, Events.
-* **Hooks:** `useState`, `useEffect`, `useContext`, `useRef`, Custom Hooks.
-* **Routing:** React Router, Dynamic Routing, Route Parameters, Protected Routes.
-* **State:** Context API, Redux, Redux Toolkit.
-* **API:** Fetch API, Axios, REST APIs, Async JS, Error Handling.
+1. Fundamentals: JSX, Components, Props & State, Conditional Rendering, Lists & Keys, Events.
+2. Hooks: `useState`, `useEffect`, `useContext`, `useRef`, Custom Hooks.
+3. Routing: React Router, Dynamic Routing, Route Parameters, Protected Routes.
+4. State: Context API, Redux, Redux Toolkit.
+5. API: Fetch API, Axios, REST APIs, Async JS, Error Handling.
  ```
 =====================================================================
 
